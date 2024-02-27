@@ -1,6 +1,6 @@
-package DAO.Impl;
-import Connection.DataSource;
-import DAO.PersonDAO;
+package dao.Impl;
+import connection.DataSource;
+import dao.PersonDAO;
 import models.Person;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

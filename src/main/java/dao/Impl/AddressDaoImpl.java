@@ -1,6 +1,6 @@
-package DAO.Impl;
+package dao.Impl;
 
-import DAO.AddressDAO;
+import dao.AddressDAO;
 import models.Address;
 
 import java.util.List;

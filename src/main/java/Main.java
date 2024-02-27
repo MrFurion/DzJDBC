@@ -1,5 +1,5 @@
-import DAO.Impl.PersonDaoImpl;
-import DAO.PersonDAO;
+import dao.Impl.PersonDaoImpl;
+import dao.PersonDAO;
 import models.Person;
 
 public class Main {
